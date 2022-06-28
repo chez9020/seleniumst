@@ -2,6 +2,6 @@
 
 import os
 
-print("Juan Nacio en Mexico y vivira en Canada")
+print("Juan Nacio en Mexico y vivira en Canada o Europa")
 
 #Este bot obtendra archivos de la pagina de UPS
